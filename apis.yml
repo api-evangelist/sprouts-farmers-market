@@ -1,7 +1,12 @@
 aid: sprouts-farmers-market
-url: https://raw.githubusercontent.com/api-evangelist/sprouts-farmers-market/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/sprouts-farmers-market/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.sprouts-farmers-market.com
+description: >-
+  Sprouts Farmers Market is a specialty grocer that offers fresh, natural, and organic
+  foods at affordable prices through stores located primarily in the western United
+  States.
