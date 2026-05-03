@@ -1,0 +1,103 @@
+name: Sprouts Farmers Market Vocabulary
+description: >-
+  Domain vocabulary for Sprouts Farmers Market covering grocery retail,
+  natural and organic food categories, supply chain integration, and
+  e-commerce delivery partnerships.
+version: '1.0'
+created: '2026-05-02'
+modified: '2026-05-02'
+url: https://www.sprouts.com
+terms:
+  - term: Organic
+    definition: >-
+      Products certified under USDA National Organic Program (NOP) standards,
+      grown without synthetic pesticides, herbicides, or GMOs. Sprouts
+      maintains a wide assortment of USDA Certified Organic products.
+    tags:
+      - Food Quality
+      - Certification
+  - term: Natural Food
+    definition: >-
+      Foods minimally processed without artificial colors, flavors, sweeteners,
+      or preservatives. A core category at Sprouts alongside organic offerings.
+    tags:
+      - Food Quality
+      - Product Category
+  - term: Bulk Food
+    definition: >-
+      Products sold in bulk bins where customers can purchase desired quantities
+      of nuts, grains, dried fruits, spices, and other dry goods without
+      pre-packaged containers.
+    tags:
+      - Product Category
+      - Store Format
+  - term: Specialty Grocer
+    definition: >-
+      A grocery retailer focused on natural, organic, and specialty foods
+      rather than a full-assortment conventional grocery offering. Sprouts
+      positions itself as a specialty grocer emphasizing fresh and healthy options.
+    tags:
+      - Retail Format
+      - Business Model
+  - term: EDI Integration
+    definition: >-
+      Electronic Data Interchange — the standard for B2B data exchange between
+      Sprouts and its trading partners (suppliers, vendors, distributors).
+      Suppliers must be EDI-compliant to do business with Sprouts.
+    tags:
+      - Supply Chain
+      - Integration
+  - term: Instacart
+    definition: >-
+      On-demand grocery delivery partner that enables Sprouts customers to
+      order groceries online for same-day delivery. Sprouts participates in
+      Instacart's AI-powered Cart Assistant program.
+    tags:
+      - Delivery
+      - E-Commerce Partner
+  - term: DoorDash
+    definition: >-
+      Food and grocery delivery platform that partners with Sprouts for online
+      grocery delivery to expand digital reach and e-commerce revenue.
+    tags:
+      - Delivery
+      - E-Commerce Partner
+  - term: Uber Eats
+    definition: >-
+      Food delivery platform partnering with Sprouts to provide online grocery
+      delivery, contributing to 21% year-over-year e-commerce growth in 2025.
+    tags:
+      - Delivery
+      - E-Commerce Partner
+  - term: Private Label
+    definition: >-
+      Sprouts-branded products manufactured by third parties and sold
+      exclusively under the Sprouts brand, typically at a lower price
+      than national brand equivalents.
+    tags:
+      - Product Category
+      - Brand
+  - term: Supplement
+    definition: >-
+      Vitamins, minerals, herbal products, and other dietary supplements
+      sold in Sprouts' dedicated wellness section, one of the largest
+      supplement assortments among grocery retailers.
+    tags:
+      - Product Category
+      - Wellness
+  - term: Trading Partner
+    definition: >-
+      A supplier or vendor that exchanges business documents (purchase orders,
+      invoices, advance ship notices) with Sprouts via EDI. New trading partners
+      must complete Sprouts' onboarding process to become EDI-compliant.
+    tags:
+      - Supply Chain
+      - B2B
+  - term: Cart Assistant
+    definition: >-
+      Instacart's AI-powered feature on the Sprouts website and app that helps
+      customers discover and add relevant products to their online grocery cart.
+    tags:
+      - AI
+      - E-Commerce
+      - Personalization

@@ -1,0 +1,43 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "gs1": "https://www.gs1.org/voc/",
+    "sprouts": "https://www.sprouts.com/vocab/",
+
+    "GroceryStore": "schema:GroceryStore",
+    "Product": "schema:Product",
+    "Offer": "schema:Offer",
+    "FoodEstablishment": "schema:FoodEstablishment",
+    "LocalBusiness": "schema:LocalBusiness",
+
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": {
+      "@id": "schema:url",
+      "@type": "@id"
+    },
+    "image": {
+      "@id": "schema:image",
+      "@type": "@id"
+    },
+    "address": "schema:address",
+    "telephone": "schema:telephone",
+    "openingHours": "schema:openingHours",
+    "priceRange": "schema:priceRange",
+    "servesCuisine": "schema:servesCuisine",
+    "product": {
+      "@id": "schema:product",
+      "@type": "@id"
+    },
+    "productCategory": "gs1:productCategory",
+    "brand": "schema:brand",
+    "price": "schema:price",
+    "priceCurrency": "schema:priceCurrency",
+    "organic": "sprouts:isOrganic",
+    "naturalFood": "sprouts:isNaturalFood",
+    "dietary": "sprouts:dietaryAttribute",
+    "deliveryPartner": "sprouts:deliveryPartner",
+    "storeLocation": "schema:location"
+  }
+}
