@@ -14,6 +14,8 @@ created: '2026-05-02'
 modified: '2026-05-02'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/sprouts-farmers-market
   - type: JSONLD
     url: json-ld/sprouts-farmers-market-context.jsonld
   - type: Vocabulary
