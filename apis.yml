@@ -14,6 +14,10 @@ created: '2026-05-02'
 modified: '2026-05-02'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/sprouts-farmers-market-domain-security.yml
+  - url: https://www.sprouts.com/feed/
+    type: Blog
   - type: LinkedIn
     url: https://www.linkedin.com/company/sprouts-farmers-market
   - type: JSONLD
