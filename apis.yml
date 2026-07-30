@@ -8,6 +8,17 @@ description: >-
   integrations and participates in Instacart's AI-powered Cart Assistant program.
   There is no public developer API; integrations are handled through EDI and
   third-party delivery platform partnerships.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.sprouts.com/img/sprouts-logo.svg
 url: https://www.sprouts.com
 created: '2026-05-02'
