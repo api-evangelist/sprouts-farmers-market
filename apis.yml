@@ -8,6 +8,7 @@ description: >-
   integrations and participates in Instacart's AI-powered Cart Assistant program.
   There is no public developer API; integrations are handled through EDI and
   third-party delivery platform partnerships.
+specificationVersion: '0.23'
 accessModel:
   pricing: unknown
   onboarding: unknown
