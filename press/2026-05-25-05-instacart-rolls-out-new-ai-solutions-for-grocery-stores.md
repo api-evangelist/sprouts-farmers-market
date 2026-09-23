@@ -1,7 +1,9 @@
 ---
 title: Instacart Rolls Out New AI Solutions for Grocery Stores
 url: https://www.pymnts.com/news/artificial-intelligence/2025/instacart-rolls-out-new-ai-solutions-grocery-stores/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Sprouts Farmers Market" press release artificial intelligence'
 position: 5
 source: serpapi-google

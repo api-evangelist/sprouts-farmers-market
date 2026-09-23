@@ -1,7 +1,9 @@
 ---
 title: Instacart launches AI Solutions for grocers with partners ...
 url: https://www.linkedin.com/posts/danidudeck_instacart-rolls-out-ai-tools-for-grocers-activity-7391491143265443840-bDm6
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Sprouts Farmers Market" press release artificial intelligence'
 position: 4
 source: serpapi-google

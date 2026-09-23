@@ -1,7 +1,9 @@
 ---
 title: Instacart Announces New Enterprise AI Solutions to ...
 url: https://www.prnewswire.com/news-releases/instacart-announces-new-enterprise-ai-solutions-to-democratize-ai-for-grocers-of-all-sizes-302603735.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Sprouts Farmers Market" press release artificial intelligence'
 position: 1
 source: serpapi-google
